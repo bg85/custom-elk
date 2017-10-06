@@ -1,4 +1,6 @@
-# ELK Image - enabling http plugin for Logstash
+# ELK Image 
+- configured file plugin for Logstash
+- configured http plugin for Logstash
 
 ELK container with enabled http plugin for logstash
 
