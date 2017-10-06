@@ -2,9 +2,9 @@
 
 ELK container with enabled http plugin for logstash
 
-## Dockerfile Chrome
+## Dockerfile
 
-[`bg85/docker-selenium` Dockerfile-chrome](https://github.com/bg85/docker-selenium/blob/master/Dockerfile-chrome)
+[`bg85/docker-selenium` Dockerfile](https://github.com/bg85/custom-elk/blob/master/Dockerfile)
 
 ## How to use this image
 
