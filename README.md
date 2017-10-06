@@ -2,8 +2,6 @@
 - configured file plugin for Logstash
 - configured http plugin for Logstash
 
-ELK container with enabled http plugin for logstash
-
 ## Dockerfile
 
 [`bg85/docker-selenium` Dockerfile](https://github.com/bg85/custom-elk/blob/master/Dockerfile)
